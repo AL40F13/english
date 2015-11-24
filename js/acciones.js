@@ -25,6 +25,11 @@ document.addEventListener("deviceready",function(){
 	$('#5').on ('tap',function(){
 		navigator.vibrate(1000);
 	});
+	
+	$('#principal').on ('tap',function(){
+		navigator.vibrate(1000);
+	});
+	
 
 	audio=window.plugins.LowLatencyAudio;
 	audio.preloadFX('b1','audio/C.mp3',function(){},function(msg){alert("Error "+msg);});
