@@ -5,10 +5,10 @@
      id    = "com.phonegap.Esqueleto"  
      version  = "1.0.0">  
 	 
-   <name> Mi App </name>  
+   <name> Villa Enlightened </name>  
    
    <description>  
-     App de pediatría
+     App de villa iluminada
    </description>  
    
    <author href="https://build.phonegap.com" email="micorreo@gmail.com">  
@@ -21,7 +21,7 @@
    <preference name="target-device"       value="universal" />   
    <preference name="fullscreen"         value="true" />      
    <preference name="android-installLocation"  value="auto" />  
-   <preference name="SplashScreen" value="splash"/>
+   <preference name="SplashScreen" value="welcome"/>
    <preference name="SplashScreenDelay" value="5000"/>
 
 
